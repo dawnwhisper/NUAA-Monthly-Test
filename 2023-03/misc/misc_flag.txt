@@ -1,5 +1,0 @@
-47只兔子flag：nuaactf{SoE@sy_r1ght3}
-
-无名flag：nuaactf{piet_is_funny}
-
-飞啊飞flag：nuaactf{MF8159_58L}
