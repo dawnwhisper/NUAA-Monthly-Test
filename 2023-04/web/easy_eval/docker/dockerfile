@@ -1,0 +1,6 @@
+FROM php:7.3-apache
+ENV FLAG=flag{idk_what_t0_wr1te_But_th1s_is_fl4g}
+COPY src/ /var/www/html
+RUN mv ./start.sh /start.sh && chmod 777 /start.sh
+EXPOSE 80
+CMD ["/start.sh"]
